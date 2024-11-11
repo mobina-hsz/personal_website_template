@@ -120,7 +120,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: mailto:mobinahassanzadeh099@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -135,10 +135,10 @@ author:
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/mobina.nour/"
     - label: "Telegram"
       icon: "fab fa-telegram"
-      url: "http://t.me/Sauleh"
+      url: "http://t.me/Mobinahassanzadeh"
 
 # Site Footer
 footer:
@@ -151,7 +151,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url:"https://github.com/mobina-hsz"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -160,7 +160,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url:"https://www.instagram.com/mobina.nour/"
 
 
 # Reading Files
