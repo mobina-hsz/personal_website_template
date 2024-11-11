@@ -107,16 +107,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Khargooshe Naziloo"
+  name             : "Mobina Hassanzadeh"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : I'm the best student.
-  location         : "تهران"
-  email            : sauleh@gmail.com
+  bio              : comuter engineering at IUST.
+  location         : "Tehran"
+  email            : mobinahassanzdeh099@gmail.com
   twitter: sauleh_e
   linkedin: 
   google_scholar: Q25s5KkAAAAJ
-  github: sauleh
-  instagram: saulehe
+  github: mobina-hsz
+  instagram: mobina.nour
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
