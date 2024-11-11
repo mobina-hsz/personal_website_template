@@ -17,7 +17,7 @@ main:
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
    - title: "IUST"
-     url: /IUST/
+    url: /IUST/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
