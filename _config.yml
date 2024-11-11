@@ -151,7 +151,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url:"https://github.com/mobina-hsz"
+      url: "https://github.com/mobina-hsz"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -160,7 +160,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url:"https://www.instagram.com/mobina.nour/"
+      url: "https://www.instagram.com/mobina.nour/"
 
 
 # Reading Files
