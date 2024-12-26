@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-permalink: /sourses/
+permalink: /sources/
 title: my sources for programming
 tags: [Studying, courses]
 modified: 9-14-2019
