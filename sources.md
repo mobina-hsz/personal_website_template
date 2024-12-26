@@ -1,8 +1,8 @@
 ---
 layout: single
 author_profile: true
-permalink: /courses/
-title: Courses
+permalink: /sourses/
+title: sourses
 tags: [Studying, courses]
 modified: 9-14-2019
 comments: false
