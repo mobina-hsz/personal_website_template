@@ -1,17 +1,17 @@
 # main links
 main:
-  - title: "CV"
-    url: /cv/
-  - title: "Courses"
-    url: /courses/
+  # - title: "CV"
+  #   url: /cv/
+  - title: "sourses"
+    url: /sourses/
   - title: "Friends"
     url: /friends/
-  - title: "Links"
-    url: /links/
+  # - title: "Links"
+  #   url: /links/
   - title: "Hobbies"
     url: /hobbies/  
-  - title: "Gallery"
-    url: /gallery/
+  # - title: "Gallery"
+  #   url: /gallery/
   - title: "Blog"
     url: /blog/
   - title: "IUST"

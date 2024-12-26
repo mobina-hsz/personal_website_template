@@ -7,11 +7,11 @@ tags: [friends]
 modified: 4-10-2019
 comments: true
 ---
-
 ### همکلاسی‌ها
-* [علی حسینی](http://alihosseini.github.io)
-* بهداد محمدی
-* حسن داریان
 
-
-
+* [مبینا سیفی
+  ](http://alihosseini.github.io)
+* [عالیه بنی خزایی
+  ](http://alihosseini.github.io)
+* [سارا رادین
+  ](http://alihosseini.github.io)
