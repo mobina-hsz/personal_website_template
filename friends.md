@@ -9,8 +9,7 @@ comments: true
 ---
 ### همکلاسی‌ها
 
-* [مبینا سیفی
-  ](http://alihosseini.github.io)
+* [مبینا سیفی](https://github.com/MobinaaSeifi "frined`s link")
 * [عالیه بنی خزایی
   ](http://alihosseini.github.io)
 * [سارا رادین
